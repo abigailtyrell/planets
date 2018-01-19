@@ -1,7 +1,4 @@
 Jupiter is really large!!!
 Jupiter is so extra
-<<<<<<< HEAD
-Too much gas. No thank you
-=======
-for real
->>>>>>> 59f042d437c3249e36bd57e337b775a8e3914592
+There's just too much gas. 
+And what's up with that whole eye thing?
